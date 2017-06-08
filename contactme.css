@@ -1,0 +1,45 @@
+#heading{
+border:5px solid #eadd48;
+text-align:center;
+color:yellow;
+background-color:rgb(17, 17, 67);
+}
+.navigation {
+  overflow:hidden;
+  background-color:#eadd48;
+}
+
+.navigation a {
+  float: left;
+  display: block;
+  color:rgb(17, 17, 67);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+
+.navigation a:hover {
+  background-color:white;
+  color: rgb(17, 17, 67);
+  }
+
+.navigation a.active {
+    background-color: rgb(17, 17, 67);
+    color:white;
+   
+}
+.form{
+color:yellow;
+background-color:rgb(17, 17, 67);
+border-left:10px solid rgb(17, 17, 67);
+}
+#send{
+text-decoration:none;
+}
+p{
+ background-color:rgb(17, 17, 67);
+ color:yellow;
+border:5px solid rgb(17, 17, 67)
+}
