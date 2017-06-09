@@ -33,9 +33,30 @@ background-color:rgb(17, 17, 67);
 #copy{
 background-color:rgb(17, 17, 67);
 color:yellow;
+clear:left;
+
 }
 p{
-border:5px solid rgb(17, 17, 67);
+/*border:5px solid rgb(17, 17, 67);*/
 font-family: 'Playfair Display', serif;
+
+}
+img{
+width:400px;
+height:400px;
+border-radius:50%;
+margin:25px 0px;
+float:left;
+
+}
+#first{
+font-size:40px;
+}
+.kt{
+font-size:40px;
 }
 
+.all{
+width:50%;
+margin:0 auto;
+}
