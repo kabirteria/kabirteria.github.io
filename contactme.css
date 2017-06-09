@@ -31,18 +31,21 @@ background-color:rgb(17, 17, 67);
    
 }
 .form{
-color:yellow;
-background-color:rgb(17, 17, 67);
-border-left:10px solid rgb(17, 17, 67);
+color:rgb(17, 17, 67);
+background-color:#eadd48;
+border-left:10px solid #eadd48;
 }
 #send{
 text-decoration:none;
 }
 p{
- background-color:rgb(17, 17, 67);
- color:yellow;
-border:5px solid rgb(17, 17, 67)
+ background-color:#eadd48;
+ color:rgb(17, 17, 67);
+
 }
 form{
 padding:10px;
+}
+button{
+color:rgb(17, 17, 67);
 }
